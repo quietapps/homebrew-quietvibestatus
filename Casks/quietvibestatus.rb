@@ -1,6 +1,6 @@
 cask "quietvibestatus" do
-  version "1.0.3"
-  sha256 "e8e545bf7c910756a23f8c8a64b4d657a2b2418a2ac9be269042547e31a83e6c"
+  version "1.0.4"
+  sha256 "4ed978054fb65fb599c93c996a4e2f23fdf84fd2b209865364c0ae1e51da49e0"
 
   url "https://github.com/quietapps/QuietVibeStatus/releases/download/#{version}/QuietVibeStatus-#{version}.zip"
   name "Quiet Vibe Status"
@@ -59,4 +59,5 @@ cask "quietvibestatus" do
     agents it finds (Claude Code, Codex, Gemini CLI, Cursor Agent).
   EOS
 end
+
 
