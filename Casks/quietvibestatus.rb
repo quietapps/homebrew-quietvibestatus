@@ -1,6 +1,6 @@
 cask "quietvibestatus" do
-  version "1.0.1"
-  sha256 "e5956078f735548ccce24fa989c780d8ea7097934bb3d33e46e676bd7b1c0d7c"
+  version "1.0.2"
+  sha256 "1a64431cd1f2bc74e9562b3fb503f7ea7385492d4175d7314f516c3d8aaca09d"
 
   url "https://github.com/quietapps/QuietVibeStatus/releases/download/#{version}/QuietVibeStatus-#{version}.zip"
   name "Quiet Vibe Status"
